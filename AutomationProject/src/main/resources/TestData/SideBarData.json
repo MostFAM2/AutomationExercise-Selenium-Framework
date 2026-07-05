@@ -1,0 +1,15 @@
+{
+  "firstCategory": "Women",
+  "firstSubcategory": "Dress",
+  "firstExpectedTitle": "WOMEN - DRESS PRODUCTS",
+
+  "secondCategory": "Men",
+  "secondSubcategory": "Jeans",
+  "secondExpectedTitle": "MEN - JEANS PRODUCTS",
+
+  "firstBrand": "Polo",
+  "firstBrandExpectedTitle": "BRAND - POLO PRODUCTS",
+
+  "secondBrand": "Madame",
+  "secondBrandExpectedTitle": "BRAND - MADAME PRODUCTS"
+}

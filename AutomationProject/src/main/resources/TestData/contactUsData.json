@@ -1,0 +1,7 @@
+{
+  "name": "Test User",
+  "email": "testuser@test.com",
+  "subject": "Test Subject - Automation",
+  "message": "This is a test message sent by the automation framework.",
+  "attachmentPath": "src/main/resources/TestData/sample_attachment.txt"
+}

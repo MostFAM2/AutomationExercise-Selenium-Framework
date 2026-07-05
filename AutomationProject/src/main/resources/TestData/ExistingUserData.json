@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Mr",
+    "name": "Existing User One",
+    "email": "existing1@me.com",
+    "password": "Test@1234",
+    "day": "15",
+    "month": "June",
+    "year": "1995",
+    "firstName": "User",
+    "lastName": "One",
+    "company": "TestCompany",
+    "address1": "123 Test Street",
+    "address2": "Apt 4B",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipcode": "90001",
+    "mobileNumber": "1234567890"
+  },
+  {
+    "title": "Mrs",
+    "name": "Existing User Two",
+    "email": "existing2@me.com",
+    "password": "Test@5678",
+    "day": "10",
+    "month": "March",
+    "year": "1992",
+    "firstName": "User",
+    "lastName": "Two",
+    "company": "CompanyTwo",
+    "address1": "456 Avenue Two",
+    "address2": "Suite 2",
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "zipcode": "M5V 2T6",
+    "mobileNumber": "2222222222"
+  }
+]
