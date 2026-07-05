@@ -104,14 +104,14 @@ testng.xml
 <img src="assets/project-structure.png" width="900"/>
 
 ## 📌 Test Execution
-<img src="assets/testng  .png" width="900"/>
+<img src="assets/testng.png" width="900"/>
 
 ## 📌 Allure Report Dashboard
 <img src="assets/allure-report.png" width="900"/>
 
 ## 📌 Manual Report Template
-<img src="assets/TC" width="900"/>
-<img src="assets/Bug Report" width="900"/>
+<img src="assets/TC.png" width="900"/>
+<img src="assets/Bug Report.png" width="900"/>
 
 ---
 
